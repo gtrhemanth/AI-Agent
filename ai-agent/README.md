@@ -71,10 +71,5 @@ OPENAI_MODEL=gpt-4o-mini
 
 ---
 
-## 📸 Screenshot
-*(Add a screenshot of your running app here!)*  
-
----
-
 ## 🤝 Contributions
 PRs and ideas for new tools are welcome — just add functions in `tools/` and wire them up in `app.py`.
